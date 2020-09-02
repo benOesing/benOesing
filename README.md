@@ -7,8 +7,8 @@
 ---
 
 ### Connect with me:
-[<img align="left" alt="DarkPopcorn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DarkPopcorn | Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" />][codewars]
+[<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Codewars | Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" />][codewars]
 
 <br />
 
@@ -27,7 +27,7 @@
 
 <br />
 <br />
-<img alt="DarkPopcorn's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DarkPopcorn&show_icons=true&hide_border=true" />
+<img alt="benOesing's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benOesing&show_icons=true&hide_border=true" />
 
 
 ### Original idea by Jesse aka [codeSTACKr][website] 🙇‍♂️
