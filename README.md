@@ -1,5 +1,6 @@
 ## Hi my name is Benedikt. I am a computer scientist that hopefully will soon be able to combine his passion and hobby to make a living.
 - ⌨ I got many projects to share, where do I even start 😵
+    - 📖 Look through the backbone of all my java projects. A big [library] of methods and datastructures to solve common or less common problems.
     - 👶 Check out my first project I ever done, where I thoroughly visit the classical [project euler][eulerProject] problems. Seperated into solutions I wrote when i was learning Java and how I would program them today.
     - 🐸 Or visit a [fun project][drawYourMeme], which allows to turn any image into a fun GIF.
     - 🎮 My most [recent project][poeChaos], a fork of an addon for the video game Path of Exile, which helps the user keep track of specific items he collected.
@@ -35,7 +36,7 @@
 
 
 ### Original idea by Jesse aka [codeSTACKr][website] 🙇‍♂️
-
+[library]: https://github.com/benOesing/OesingLibrary
 [eulerProject]: https://github.com/benOesing/Euler
 [drawYourMeme]: https://github.com/benOesing/DrawYourMeme
 [poeChaos]:  https://github.com/benOesing/chaos-recipe-overlay
