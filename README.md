@@ -11,7 +11,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Xing | Codewars" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/25/25289.svg" />][xing]
+[<img align="left" alt="Xing | Codewars" width="22px" src="https://static.xingcdn.com/xws/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png" />][xing]
 [<img align="left" alt="Codewars | Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" />][codewars]
 
 <br />
